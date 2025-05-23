@@ -60,10 +60,10 @@ export default function Footer() {
         </div>
         <div className="copyright">
           <p>Copyright © 2024 Hoteler. All Rights Reserved.</p>
-          <p>
-            Develop by
+          <div>
+            Develop by ❤️ 
             <a href="https://www.facebook.com/tamimalhridoy">Tamim Al Hridoy</a>
-          </p>
+          </div>
         </div>
       </div>
     </>
