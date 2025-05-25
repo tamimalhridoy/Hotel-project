@@ -59,7 +59,7 @@ export default function Footer() {
           </div>
         </div>
         <div className="copyright">
-          <p>Copyright © 2024 Hoteler. All Rights Reserved.</p>
+          <p>Copyright © 2024 hoteler. All Rights Reserved.</p>
           <div>
             Develop by ❤️ 
             <a href="https://www.facebook.com/tamimalhridoy">Tamim Al Hridoy</a>
